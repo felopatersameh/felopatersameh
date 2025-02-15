@@ -1,43 +1,42 @@
-<h1 align="center">Hi 👋, I'm Felopater Sameh</h1>
-<h3 align="center">A Passionate Flutter Developer from Egypt</h3>
+# 👋 Hi, I'm Felopater Sameh  
 
-- 🌱 I’m currently learning and building apps with **Flutter**
+🚀 **Flutter Developer | Crafting Mobile Experiences**  
 
-- 💼 I’ve developed multiple apps
+## 🔹 About Me  
+💙 Building fast & scalable apps with **Flutter & Dart**  
+🛠 Skilled in **state management (Cubit), API integration, SQLite & Hive**  
+📍 Based in **Egypt**  
 
-- 📫 How to reach me: **felopaters37@gmail.com**
+<!--## 🔹 Featured Projects  
+📌 **[Tasky](https://github.com/felopatersameh/Tasky-App)** – Task manager with QR code search  
+📌 **[Bookly](https://github.com/felopatersameh/Bookly-App.git)** – Book app with Stripe payments  
+📌 **[Note Pulse](https://github.com/felopatersameh/NotePulse-App)** – Note-taking with dark mode  
+📌 **[Tri News](https://github.com/felopatersameh/NewsTri-App)** – News aggregator with filtering  
+📌 **[Doctor Code](https://github.com/felopatersameh/Doctor-Code)** – C# patient data system  
 
-<h3 align="left">Languages and Tools:</h3>
+🔗 **More projects on [GitHub](https://github.com/felopatersameh/)**  -->
 
-<p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
- 
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-    
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  
-  </a> 
-  
-  <a href="https://help.figma.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  
+## 🔹 Experience & Certifications  
+💼 **Internships:**  
+- **Mobile App Dev - Digital Egypt Pioneer Initiative (2024)**  
+- **Business English - Digital Egypt Pioneer Initiative (2024)**  
 
-  
-</p>
+🎓 **Certifications:**  
+- **Flutter Development - ITI**  
+- **AI & Robotics - Future Academy**  
+- **Git & GitHub, Advanced Flutter, Payment Integration - Udemy**  
+
+## 🔹 Tech Stack  
+🛠 **Languages:** Dart, C#, C++, Java  
+📡 **APIs & Network:** REST, Dio Helper  
+🗄 **Databases:** SQLite, Hive, SQL Server  
+🏗 **Architecture:** MVVM, Clean Architecture  
+🔧 **Tools:** Git, Postman, Figma  
+<!--🛍 **Payment:** Stripe Integration-->  
+
+## 🔹 Let's Connect  
+📧 **felopaters37@gmail.com**  
+💼 [LinkedIn](http://www.linkedin.com/in/felopatersameh)  
+
+---  
+*"Building impactful mobile apps!"* 🚀  
