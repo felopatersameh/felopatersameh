@@ -1,72 +1,51 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#42A5F5">Felopater Sameh</span></h1>
-
-<h3 align="center">🚀   Flutter Developer & Full-Stack Dart</h3>
+<h1 align="center">Felopater Sameh — Flutter & Mobile App Developer</h1>
 
 <p align="center">
-  <em>I build fast, scalable, and elegant mobile & backend solutions using Flutter, Dart, and MongoDB.</em>
+  <img src="https://avatars.githubusercontent.com/u/132109352?v=4" alt="Felopater Sameh, Flutter and mobile application developer in Egypt" width="150" />
 </p>
-
----
-
-### ⚡ **Tech Stack**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bloc-5C2D91?style=for-the-badge&logo=bloc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+  Flutter developer based in Cairo, Egypt, building cross-platform mobile applications for Android and iOS, plus web and desktop solutions using Dart.
 </p>
-
----
-
----
-
-### 🧠 **What I Do**
-
-<table align="center">
-<tr>
-<td>
-
-- 📱 Build **cross-platform mobile apps** with **Flutter**  
-- 🏗 Apply **Clean Architecture & MVVM patterns**  
-- 🧩 Manage state efficiently using **Bloc / Cubit**  
-- ⚙️ Develop **backend APIs in Dart** with **MongoDB**  
-- ☁️ Integrate **Firebase Authentication & Cloud Firestore**
-
-</td>
-<td>
-
-- 🔄 Implement **real-time systems** & socket connections  
-- 💳 Work with **REST APIs & third-party integrations**  
-- 🎨 Design smooth **animations & responsive UIs**  
-- 🧠 Optimize performance and memory usage  
-- 🧰 Use **Git, Postman, and CI/CD pipelines**
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎓 **Training & Certifications**
-DEPI – Mobile App Development | ITI – Flutter Track | Udemy – Advanced Flutter, Payment Integration  
-
----
-
-### 🌍 **Connect With Me**
-<p align="center">
-  <a href="mailto:felopaters37@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/felopatersameh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://felopatersameh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
 
 <p align="center">
-  <em>"Code once, run everywhere — powered by Dart 💙"</em>
+  <a href="https://felopatersameh.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/felopatersameh/">LinkedIn</a> ·
+  <a href="https://pub.dev/packages/sahih_validator">Published Dart package</a>
 </p>
+
+## About Me
+
+I'm a Flutter developer focused on building practical, user-friendly applications and turning business requirements into working products. My experience includes a published real estate mobile app, independent SaaS products, API integrations, and Dart backend development.
+
+- **Mobile development:** Flutter, Dart, Android, iOS, and cross-platform app development
+- **Architecture and state management:** Clean Architecture, MVVM, BLoC, Cubit, and dependency injection
+- **Backend and integrations:** REST APIs, Dart Frog, MongoDB, Firebase, JWT authentication, and push notifications
+- **App experiences:** Responsive interfaces, localization, Google Maps, PDF generation, and performance-focused development
+
+## Selected Work
+
+| Project | What it does | Link |
+| --- | --- | --- |
+| **21 Estates — Real Estate Mobile App** | Flutter app features for property discovery, filtering, favorites, project comparisons, and property details. | [Google Play](https://play.google.com/store/apps/details?id=com.twentyfirst.realestate) |
+| **Nassivo — Business SaaS** | Web dashboard for managing mobile lines, subscribers, packages, subscriptions, and operations, including an AI-powered assistant. | [Website](https://nassivo.vercel.app/) |
+| **Sahih Validator — Dart Package** | Published validation package for Dart and Flutter projects. | [pub.dev](https://pub.dev/packages/sahih_validator) |
+
+## Technologies
+
+**Languages & platforms:** Dart · Flutter · Android · iOS · Flutter Web · Flutter Desktop
+
+**Architecture & tools:** Clean Architecture · MVVM · BLoC/Cubit · GetIt · Git · GitHub
+
+**Backend & services:** Dart Frog · REST APIs · MongoDB · Firebase · SQLite · Dio
+
+## Education
+
+**B.Sc. in Computer Science** — Future Academy, Egypt (2025)
+
+## Connect
+
+- **Portfolio:** [felopatersameh.vercel.app](https://felopatersameh.vercel.app)
+- **LinkedIn:** [linkedin.com/in/felopatersameh](https://www.linkedin.com/in/felopatersameh/)
+- **Dart package:** [sahih_validator on pub.dev](https://pub.dev/packages/sahih_validator)
+- **Email:** [felopaters37@gmail.com](mailto:felopaters37@gmail.com)
