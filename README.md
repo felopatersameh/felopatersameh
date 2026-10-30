@@ -1,51 +1,80 @@
-<h1 align="center">Felopater Sameh — Flutter & Mobile App Developer</h1>
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/132109352?v=4" alt="Felopater Sameh, Flutter and mobile application developer in Egypt" width="150" />
+  <img src="./assets/profile-banner.svg" alt="Felopater Sameh — Flutter and Mobile App Developer" width="100%" />
 </p>
 
 <p align="center">
-  Flutter developer based in Cairo, Egypt, building cross-platform mobile applications for Android and iOS, plus web and desktop solutions using Dart.
+  <img src="https://avatars.githubusercontent.com/u/132109352?v=4" alt="Felopater Sameh" width="105" />
 </p>
 
 <p align="center">
-  <a href="https://felopatersameh.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/felopatersameh/">LinkedIn</a> ·
-  <a href="https://pub.dev/packages/sahih_validator">Published Dart package</a>
+  <strong>Flutter Developer · Android &amp; iOS · Dart Backend</strong>
+  <br />
+  <sub>Based in Cairo, Egypt · Building practical, user-friendly digital products</sub>
 </p>
 
-## About Me
+<p align="center">
+  <a href="https://felopatersameh.vercel.app">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/felopatersameh/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+  </a>
+  <a href="mailto:felopaters37@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  </a>
+</p>
 
-I'm a Flutter developer focused on building practical, user-friendly applications and turning business requirements into working products. My experience includes a published real estate mobile app, independent SaaS products, API integrations, and Dart backend development.
+---
 
-- **Mobile development:** Flutter, Dart, Android, iOS, and cross-platform app development
-- **Architecture and state management:** Clean Architecture, MVVM, BLoC, Cubit, and dependency injection
-- **Backend and integrations:** REST APIs, Dart Frog, MongoDB, Firebase, JWT authentication, and push notifications
-- **App experiences:** Responsive interfaces, localization, Google Maps, PDF generation, and performance-focused development
+## About me
 
-## Selected Work
+I'm **Felopater Sameh**, a Flutter developer focused on building **cross-platform mobile applications** for Android and iOS. I also work on Flutter web and desktop products, backend APIs with Dart Frog, and real-world integrations.
 
-| Project | What it does | Link |
-| --- | --- | --- |
-| **21 Estates — Real Estate Mobile App** | Flutter app features for property discovery, filtering, favorites, project comparisons, and property details. | [Google Play](https://play.google.com/store/apps/details?id=com.twentyfirst.realestate) |
-| **Nassivo — Business SaaS** | Web dashboard for managing mobile lines, subscribers, packages, subscriptions, and operations, including an AI-powered assistant. | [Website](https://nassivo.vercel.app/) |
-| **Sahih Validator — Dart Package** | Published validation package for Dart and Flutter projects. | [pub.dev](https://pub.dev/packages/sahih_validator) |
+I enjoy taking products from requirements to working features, with attention to user experience, maintainable architecture, and performance.
 
-## Technologies
+## Featured work
 
-**Languages & platforms:** Dart · Flutter · Android · iOS · Flutter Web · Flutter Desktop
+### 📱 21 Estates — Real Estate Mobile App
+A published real estate application that helps people discover and compare properties. Worked on search and filters, favorites, project comparisons, PDF reports, and other customer-facing features.
 
-**Architecture & tools:** Clean Architecture · MVVM · BLoC/Cubit · GetIt · Git · GitHub
+**[View on Google Play](https://play.google.com/store/apps/details?id=com.twentyfirst.realestate)**
 
-**Backend & services:** Dart Frog · REST APIs · MongoDB · Firebase · SQLite · Dio
+### 📊 Nassivo — Mobile Lines & Subscriptions SaaS
+A business dashboard for managing mobile lines, subscribers, packages, subscription requests, renewals, and operational reporting, with an AI-powered assistant.
+
+**[Explore Nassivo](https://nassivo.vercel.app/)**
+
+### 📦 Sahih Validator — Dart & Flutter Package
+An open-source validation package published for Dart and Flutter developers.
+
+**[View on pub.dev](https://pub.dev/packages/sahih_validator)**
+
+## Tools I work with
+
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&amp;logo=dart&amp;logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&amp;logo=firebase&amp;logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-334155?style=flat-square&amp;logo=github&amp;logoColor=white" />
+</p>
+
+- **Mobile:** Flutter, Dart, Android, iOS, responsive interfaces, localization
+- **Architecture:** Clean Architecture, MVVM, BLoC / Cubit, dependency injection
+- **Backend:** Dart Frog, REST APIs, MongoDB, Firebase, authentication, push notifications
+- **Integrations:** Google Maps, PDF generation, third-party APIs
 
 ## Education
 
-**B.Sc. in Computer Science** — Future Academy, Egypt (2025)
+**B.Sc. in Computer Science** · Future Academy, Egypt · 2025
 
-## Connect
+---
 
-- **Portfolio:** [felopatersameh.vercel.app](https://felopatersameh.vercel.app)
-- **LinkedIn:** [linkedin.com/in/felopatersameh](https://www.linkedin.com/in/felopatersameh/)
-- **Dart package:** [sahih_validator on pub.dev](https://pub.dev/packages/sahih_validator)
-- **Email:** [felopaters37@gmail.com](mailto:felopaters37@gmail.com)
+<p align="center">
+  <strong>Have a Flutter project or an opportunity in mind?</strong>
+  <br />
+  <a href="mailto:felopaters37@gmail.com">Get in touch</a> ·
+  <a href="https://felopatersameh.vercel.app">See my portfolio</a> ·
+  <a href="https://www.linkedin.com/in/felopatersameh/">Connect on LinkedIn</a>
+</p>
