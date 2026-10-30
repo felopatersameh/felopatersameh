@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Felopater Sameh — Flutter and Mobile App Developer</title>
+  <desc id="desc">A modern navy and teal developer banner with a minimal mobile interface illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0B1221"/>
+      <stop offset=".56" stop-color="#101C35"/>
+      <stop offset="1" stop-color="#17223D"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(970 140) rotate(90) scale(260 420)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20C5D9" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#20C5D9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1F3552"/>
+      <stop offset="1" stop-color="#132036"/>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#C9F7FF" opacity=".12"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect width="1200" height="340" rx="22"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+    <path d="M0 287C220 223 405 333 630 274S1010 226 1200 275" stroke="#5EEAD4" stroke-width="1.5" opacity=".10" fill="none"/>
+    <path d="M0 311C240 247 405 360 650 295S1030 252 1200 302" stroke="#38BDF8" stroke-width="1.5" opacity=".12" fill="none"/>
+    <rect x="66" y="62" width="5" height="218" rx="2.5" fill="url(#accent)"/>
+    <text x="100" y="90" fill="#7DE1E8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="5" font-weight="700">HELLO, I'M</text>
+    <text x="97" y="163" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="65" letter-spacing="-1.6" font-weight="700">Felopater</text>
+    <text x="97" y="227" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="65" letter-spacing="-1.6" font-weight="700">Sameh</text>
+    <text x="100" y="268" fill="#ABBCD4" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">Flutter &amp; Mobile App Developer</text>
+    <g transform="translate(838 22) rotate(9 145 145)">
+      <rect x="53" y="9" width="220" height="318" rx="32" fill="#050B15" stroke="#4D7192" stroke-width="3"/>
+      <rect x="64" y="20" width="198" height="296" rx="25" fill="url(#phone)"/>
+      <rect x="127" y="29" width="72" height="14" rx="7" fill="#07101C"/>
+      <circle cx="104" cy="77" r="17" fill="#163E4C"/>
+      <path d="M96 78l7-8 7 8-7 8z" fill="#65E5D8"/>
+      <rect x="133" y="68" width="86" height="8" rx="4" fill="#D6EFF8" opacity=".75"/>
+      <rect x="133" y="82" width="51" height="5" rx="2.5" fill="#83A2BC" opacity=".6"/>
+      <rect x="83" y="118" width="160" height="92" rx="14" fill="#0C1B2B" stroke="#2A4A5E"/>
+      <rect x="96" y="133" width="63" height="6" rx="3" fill="#B1D0E2" opacity=".75"/>
+      <rect x="96" y="148" width="98" height="5" rx="2.5" fill="#7094A9" opacity=".55"/>
+      <path d="M98 190l25-16 22 8 27-22 21 7 31-20" stroke="#5EEAD4" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="224" cy="147" r="5" fill="#5EEAD4"/>
+      <rect x="83" y="225" width="74" height="58" rx="10" fill="#0C1B2B" stroke="#2A4A5E"/>
+      <rect x="168" y="225" width="75" height="58" rx="10" fill="#0C1B2B" stroke="#2A4A5E"/>
+      <rect x="96" y="241" width="38" height="6" rx="3" fill="#53C8DD"/>
+      <rect x="96" y="256" width="49" height="5" rx="2.5" fill="#A3BFD3" opacity=".65"/>
+      <rect x="181" y="241" width="37" height="6" rx="3" fill="#5EEAD4"/>
+      <rect x="181" y="256" width="49" height="5" rx="2.5" fill="#A3BFD3" opacity=".65"/>
+    </g>
+    <g transform="translate(800 120) rotate(-8)">
+      <rect width="108" height="47" rx="12" fill="#15344B" stroke="#3C9CB2"/>
+      <text x="54" y="30" text-anchor="middle" fill="#9FEDE8" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">&lt; / &gt;</text>
+    </g>
+    <circle cx="1083" cy="47" r="5" fill="#5EEAD4" opacity=".7"/>
+    <circle cx="1110" cy="67" r="3" fill="#38BDF8" opacity=".7"/>
+  </g>
+</svg>
