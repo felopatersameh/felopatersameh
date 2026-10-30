@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/132109352?v=4" alt="Felopater Sameh" width="105" />
-</p>
-
-<p align="center">
   <strong>Flutter Developer · Android &amp; iOS · Dart Backend</strong>
   <br />
   <sub>Based in Cairo, Egypt · Building practical, user-friendly digital products</sub>
